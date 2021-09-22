@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on hunnybadg3r</title>
-    <link>http://hunnybadg3r.github.io/categories/</link>
-    <description>Recent content in Categories on hunnybadg3r</description>
+    <title>cute on hunnybadg3r</title>
+    <link>http://hunnybadg3r.github.io/tags/cute/</link>
+    <description>Recent content in cute on hunnybadg3r</description>
     <image>
       <url>http://hunnybadg3r.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://hunnybadg3r.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 22 Sep 2021 13:00:00 +0900</lastBuildDate><atom:link href="http://hunnybadg3r.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Sep 2021 12:00:51 +0900</lastBuildDate><atom:link href="http://hunnybadg3r.github.io/tags/cute/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>trading</title>
-      <link>http://hunnybadg3r.github.io/categories/trading/</link>
-      <pubDate>Wed, 22 Sep 2021 13:00:00 +0900</pubDate>
+      <title>Looking for hunny</title>
+      <link>http://hunnybadg3r.github.io/post/first/</link>
+      <pubDate>Wed, 22 Sep 2021 12:00:51 +0900</pubDate>
       
-      <guid>http://hunnybadg3r.github.io/categories/trading/</guid>
+      <guid>http://hunnybadg3r.github.io/post/first/</guid>
       <description></description>
     </item>
     
