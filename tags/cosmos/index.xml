@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>cosmos on hunnybadg3r</title>
+    <link>http://hunnybadg3r.github.io/tags/cosmos/</link>
+    <description>Recent content in cosmos on hunnybadg3r</description>
+    <image>
+      <url>http://hunnybadg3r.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://hunnybadg3r.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Oct 2021 21:46:47 +0900</lastBuildDate><atom:link href="http://hunnybadg3r.github.io/tags/cosmos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pale Blue Dot</title>
+      <link>http://hunnybadg3r.github.io/posts/pale-blue-dot/</link>
+      <pubDate>Mon, 04 Oct 2021 21:46:47 +0900</pubDate>
+      
+      <guid>http://hunnybadg3r.github.io/posts/pale-blue-dot/</guid>
+      <description>Official Video: Carl Sagan&amp;rsquo;s Pale Blue Dot OFFICIAL</description>
+    </item>
+    
+  </channel>
+</rss>

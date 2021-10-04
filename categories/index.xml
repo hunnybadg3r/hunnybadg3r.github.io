@@ -10,13 +10,22 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Sep 2021 16:35:26 +0900</lastBuildDate><atom:link href="http://hunnybadg3r.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Oct 2021 21:46:47 +0900</lastBuildDate><atom:link href="http://hunnybadg3r.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>book</title>
       <link>http://hunnybadg3r.github.io/categories/book/</link>
-      <pubDate>Sat, 25 Sep 2021 16:35:26 +0900</pubDate>
+      <pubDate>Mon, 04 Oct 2021 21:46:47 +0900</pubDate>
       
       <guid>http://hunnybadg3r.github.io/categories/book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>documentary</title>
+      <link>http://hunnybadg3r.github.io/categories/documentary/</link>
+      <pubDate>Mon, 04 Oct 2021 21:46:47 +0900</pubDate>
+      
+      <guid>http://hunnybadg3r.github.io/categories/documentary/</guid>
       <description></description>
     </item>
     
