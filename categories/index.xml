@@ -12,11 +12,11 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 26 Jan 2022 13:00:00 +0900</lastBuildDate><atom:link href="http://hunnybadg3r.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>trading</title>
-      <link>http://hunnybadg3r.github.io/categories/trading/</link>
+      <title>economy</title>
+      <link>http://hunnybadg3r.github.io/categories/economy/</link>
       <pubDate>Wed, 26 Jan 2022 13:00:00 +0900</pubDate>
       
-      <guid>http://hunnybadg3r.github.io/categories/trading/</guid>
+      <guid>http://hunnybadg3r.github.io/categories/economy/</guid>
       <description></description>
     </item>
     
@@ -35,6 +35,15 @@
       <pubDate>Mon, 04 Oct 2021 21:46:47 +0900</pubDate>
       
       <guid>http://hunnybadg3r.github.io/categories/documentary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>trading</title>
+      <link>http://hunnybadg3r.github.io/categories/trading/</link>
+      <pubDate>Wed, 22 Sep 2021 13:00:00 +0900</pubDate>
+      
+      <guid>http://hunnybadg3r.github.io/categories/trading/</guid>
       <description></description>
     </item>
     
